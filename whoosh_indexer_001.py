@@ -144,7 +144,7 @@ def parse_query(q):
 	return terms
 
 
-"WORks"
+"WORks not that well for the moment"
 docs=[
 "/Volumes/Gauss/Desktop/1471-2105-7-56.pdf",
 "/Volumes/Gauss/Desktop/2007 levine miRNA regulation model.pdf",
